@@ -1,3 +1,43 @@
+html{
+    scroll-behavior: smooth;    
+}
+
+body{
+    background-color: rgb(227, 229, 231);
+    overflow: inherit;
+}
+
 .carouselSpace{
     margin-top: 3.5rem;
+}
+
+#logo{
+   height: 3.5rem;
+   width: 4rem;
+}
+
+
+a.cor-home{
+    color: rgb(45, 135, 238);
+}
+
+
+ h1{
+    padding-top: 50px;
+} 
+
+.HomeHist{
+    padding: 15px 15px;
+}
+
+#line{
+    padding-bottom: 50px;
+}
+
+h2{
+    padding-bottom: 20px;
+}
+
+.esp{
+    padding-bottom:10px ;
 }
