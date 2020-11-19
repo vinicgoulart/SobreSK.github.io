@@ -41,3 +41,18 @@ h2{
 .esp{
     padding-bottom:10px ;
 }
+
+#botaotop{
+    margin-left: 1.5rem;
+}
+
+#fallen{
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+
+#fallen:hover{
+    background-color: #007BFF;
+
+}
+
